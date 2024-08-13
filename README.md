@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @B4rtel
 - 👀 I’m interested in mathematical models especially those used to describe social dynamics
+<!--- 
 - 🌱 I’m currently learning about mathematical models of modelling protest dynamics and gender-based violence
+--->
 - 💞️ I’m looking to collaborate on modelling protest dynamics and gender-based violence
 <!--- 
 - 📫 How to reach me ...
